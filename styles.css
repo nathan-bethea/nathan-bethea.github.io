@@ -1,0 +1,63 @@
+h1 {
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Righteous', cursive;
+    font-size:72px;
+}
+h1{
+    background-color:coral;
+    padding-top:100px;
+    padding-bottom:20px;
+	padding-left: 20px;
+	margin-bottom: 0px;
+	margin-top:0px;
+}
+body{
+    background-color:whitesmoke;
+    margin:0px;
+}
+
+iframe {
+margin-top: 20px;
+margin-bottom: 30px;
+-moz-border-radius: 12px;
+-webkit-border-radius: 12px;
+border-radius: 12px;
+-moz-box-shadow: 4px 4px 14px #000;
+-webkit-box-shadow: 4px 4px 14px #000;
+box-shadow: 4px 4px 14px #000;
+float:left;
+height:10%;
+width:90%;
+margin-left:5%;
+filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=.2);
+} 
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgb(68, 68, 68);
+	margin-bottom: 15px;
+  }
+  
+li {
+	float: left;
+  }
+  
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: 'Righteous', cursive;
+	font-weight: normal;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+	background-color: #111;
+}
+
