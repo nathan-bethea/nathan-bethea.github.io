@@ -33,9 +33,10 @@ iframe {
 	margin-left:5%;
 	filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=.2);
 	} 
-.sketchfab {
-	width:25%
-}
+	.sketchfab{
+		width:35%;
+		height:400px;
+	}
 ul {
 	list-style-type: none;
 	margin: 0;
