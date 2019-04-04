@@ -2,7 +2,7 @@ h1 {
     color: whitesmoke;
     text-decoration: none;
     font-family: 'Righteous', cursive;
-    font-size:72;
+    font-size:72px;
 }
 h1{
     background-color:coral;
@@ -10,6 +10,7 @@ h1{
     padding-bottom:20px;
 	padding-left: 20px;
 	margin-bottom: 0px;
+	margin-top:0px;
 }
 body{
     background-color:whitesmoke;
